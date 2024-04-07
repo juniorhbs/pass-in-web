@@ -1,5 +1,4 @@
 import { ComponentProps } from "react";
-import { twMerge } from "tailwind-merge";
 
 interface TableRowProps extends ComponentProps<"tr"> {}
 
